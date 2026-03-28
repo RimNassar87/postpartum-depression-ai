@@ -27,3 +27,9 @@ predictions = model.predict(X_test)
 accuracy = accuracy_score(y_test, predictions)
 
 print("Model accuracy:", accuracy)
+import matplotlib.pyplot as plt
+
+plt.bar(["Accuracy"], [accuracy])
+plt.title("Model Performance")
+plt.ylabel("Score")
+plt.show()
