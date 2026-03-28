@@ -25,3 +25,12 @@ Postpartum depression is often underdiagnosed. Early detection using AI can sign
 
 ## Author
 Rim Nassar
+
+## Status
+This is an ongoing research-oriented project aimed at developing practical AI tools for early detection of postpartum depression.
+
+## Technologies
+- Python
+- Scikit-learn
+- Pandas
+- Numpy
