@@ -34,3 +34,7 @@ This is an ongoing research-oriented project aimed at developing practical AI to
 - Scikit-learn
 - Pandas
 - Numpy
+
+## Current Progress
+- Initial machine learning model implemented (Random Forest Classifier)
+- Synthetic dataset used for prototype development
