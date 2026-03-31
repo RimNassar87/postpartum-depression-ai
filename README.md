@@ -38,3 +38,10 @@ This is an ongoing research-oriented project aimed at developing practical AI to
 ## Current Progress
 - Initial machine learning model implemented (Random Forest Classifier)
 - Synthetic dataset used for prototype development
+
+## Analysis Notebook
+An interactive Jupyter Notebook (analysis.ipynb) is included to demonstrate:
+- Data simulation
+- Model training
+- Model evaluation using accuracy metric
+- Performance visualization
